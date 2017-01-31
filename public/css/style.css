@@ -1,0 +1,19 @@
+
+/*error div formating */
+div.error, .msg {
+    margin: 1px;
+    border-radius: 5px;
+    color: red;
+    font-size: 0.8em;
+}
+input.error , textarea.error,select.error{
+    border: 1px solid red;
+}
+div.conten-body {
+    margin-top: 15px;
+}
+.belowsubmit{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 97%;
+}
