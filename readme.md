@@ -4,7 +4,7 @@
 
 This is a task I solved the other day and it's pretty concise. This application detects the user browser and also gives the user the ability to choose between various user. 
  After getting the vote, it sends an acknowledgement email. Also, there is a javascript validation for the client side. If you want to make this work, you need to include <code> brows_cap.ini</code> in your <code>ini folder</code>.
- Also, it presents statistics of the browsers chooser by users. I used bootstrap to make it mobile friendly and responsive.  
+ Also, it presents statistics of the browsers choosen by users. I used twitter bootstrap to make it mobile friendly and responsive.  
 
 To run this application, you need to have <code>composer</code> and <code>git</code> installe on your machine. If you already have, then follow these steps to run this web aplication: 
  
